@@ -1,2 +1,0 @@
-# JITHACK
-Personal Finance Tracker
